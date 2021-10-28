@@ -17,8 +17,9 @@ namespace UdemyAspNet.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewData["Message"] = "Vendas.";
+            ViewData["email"] = "prof.belloni@gmail.com";
+            ViewData["Professor"] = "Marcio Belloni";
             return View();
         }
 
