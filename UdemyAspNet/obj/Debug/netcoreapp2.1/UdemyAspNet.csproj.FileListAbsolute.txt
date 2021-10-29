@@ -34,3 +34,4 @@ D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\obj\Debug\netcoreapp2.1\Ud
 D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\obj\Debug\netcoreapp2.1\UdemyAspNet.pdb
 D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\obj\Debug\netcoreapp2.1\UdemyAspNet.genruntimeconfig.cache
 D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\obj\Debug\netcoreapp2.1\UdemyAspNet.csproj.CopyComplete
+D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

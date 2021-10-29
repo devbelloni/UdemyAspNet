@@ -19,12 +19,12 @@ using UdemyAspNet;
 #line default
 #line hidden
 #line 2 "D:\PROGRAMAÇÃO\C#\ws-vs2019\UdemyAspNet\UdemyAspNet\Views\_ViewImports.cshtml"
-using UdemyAspNet.Models;
+using UdemyAspNet.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2d664ba8a245cc847abc0c6c2ac3337ad589c4dc", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2025f33eaaf7d4457c1408f47f2013dd098e75f2", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
